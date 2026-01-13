@@ -52,8 +52,8 @@ Sensor data is published via Wi-Fi and integrated into Home Assistant, allowing 
 
 ## Screenshots
 
-![SensorMaster 10.000 Hardware](images/sensormaster.jpg)
-![Home Assistant Dashboard](images/homeassistant.png)
+![SensorMaster 10.000 Hardware](images/sensormaster.jpeg)
+![Home Assistant Dashboard](images/homeassistant.jpg)
 
 ---
 
